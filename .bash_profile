@@ -1,0 +1,1 @@
+alias zProject='ssh -i "zEC2Key.pem" ubuntu@ec2-54-87-220-153.compute-1.amazonaws.com'

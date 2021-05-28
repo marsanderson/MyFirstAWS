@@ -1,0 +1,3 @@
+code ~/.zshrc
+
+nano ~/.zshrc
